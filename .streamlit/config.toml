@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#FF00FF"              # Deep purple accent
+backgroundColor = "#160517"           # Pure black
+secondaryBackgroundColor = "#220624"  # Dark grey panels
+textColor = "#ffffff"                 # Soft lavender UI text
+font = "sans serif"                        # Fallback for UI elements
